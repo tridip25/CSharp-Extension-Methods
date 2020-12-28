@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\bin\Debug\netcoreapp2.2\extensionForString.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\bin\Debug\netcoreapp2.2\extensionForString.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\bin\Debug\netcoreapp2.2\extensionForString.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\bin\Debug\netcoreapp2.2\extensionForString.dll
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\bin\Debug\netcoreapp2.2\extensionForString.pdb
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\obj\Debug\netcoreapp2.2\extensionForString.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\obj\Debug\netcoreapp2.2\extensionForString.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\obj\Debug\netcoreapp2.2\extensionForString.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\obj\Debug\netcoreapp2.2\extensionForString.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\obj\Debug\netcoreapp2.2\extensionForString.dll
+C:\Users\Tridip\c#\my_tasks\dec_21\extensionForString\src\extensionForString\obj\Debug\netcoreapp2.2\extensionForString.pdb
