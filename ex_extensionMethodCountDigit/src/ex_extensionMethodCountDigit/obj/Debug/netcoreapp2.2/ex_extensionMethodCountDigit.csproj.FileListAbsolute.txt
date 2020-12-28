@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\bin\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\bin\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\bin\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\bin\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.dll
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\bin\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.pdb
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\obj\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\obj\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\obj\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\obj\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\obj\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.dll
+C:\Users\Tridip\c#\my_tasks\dec_18\ex_extensionMethodCountDigit\src\ex_extensionMethodCountDigit\obj\Debug\netcoreapp2.2\ex_extensionMethodCountDigit.pdb
