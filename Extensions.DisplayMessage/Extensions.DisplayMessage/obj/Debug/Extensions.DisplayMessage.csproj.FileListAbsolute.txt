@@ -1,0 +1,7 @@
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\bin\Debug\Extensions.DisplayMessage.exe.config
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\bin\Debug\Extensions.DisplayMessage.exe
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\bin\Debug\Extensions.DisplayMessage.pdb
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\obj\Debug\Extensions.DisplayMessage.csprojAssemblyReference.cache
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\obj\Debug\Extensions.DisplayMessage.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\obj\Debug\Extensions.DisplayMessage.exe
+C:\Users\Tridip\source\repos\Extensions.DisplayMessage\Extensions.DisplayMessage\obj\Debug\Extensions.DisplayMessage.pdb
