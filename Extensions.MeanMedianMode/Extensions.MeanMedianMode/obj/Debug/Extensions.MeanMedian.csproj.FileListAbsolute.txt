@@ -1,0 +1,6 @@
+C:\Users\Tridip\source\repos\Extensions.MeanMedianMode\Extensions.MeanMedianMode\obj\Debug\Extensions.MeanMedian.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\source\repos\Extensions.MeanMedianMode\Extensions.MeanMedianMode\obj\Debug\Extensions.MeanMedianMode.exe
+C:\Users\Tridip\source\repos\Extensions.MeanMedianMode\Extensions.MeanMedianMode\obj\Debug\Extensions.MeanMedianMode.pdb
+C:\Users\Tridip\source\repos\Extensions.MeanMedianMode\Extensions.MeanMedianMode\bin\Debug\Extensions.MeanMedianMode.exe.config
+C:\Users\Tridip\source\repos\Extensions.MeanMedianMode\Extensions.MeanMedianMode\bin\Debug\Extensions.MeanMedianMode.exe
+C:\Users\Tridip\source\repos\Extensions.MeanMedianMode\Extensions.MeanMedianMode\bin\Debug\Extensions.MeanMedianMode.pdb
